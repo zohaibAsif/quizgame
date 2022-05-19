@@ -1,7 +1,7 @@
 # Quiz Game
 Gophercises Project 1: Quiz Game
 
-# Commands
+# After cloning, run the project using
 
 --to run with default values (unshuffled quiz from problems.csv file with a time limit of 30 seconds).
 
